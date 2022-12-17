@@ -2,7 +2,7 @@ Instructions:
 Run:
       1. First type make in the command line to create the executable file.
       2. Then type ./cat to start the program.
-      3. Then start typing what you want and click enter.
+      3. Start typing and click enter.
       4. To read a file append the file name to the end of ./cat. Repeat for multiple files.
 Clean:
       1. To remove all executables and object code, type make clean.
